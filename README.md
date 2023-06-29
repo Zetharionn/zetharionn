@@ -1,5 +1,5 @@
 # Header
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Zetharion's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetharionn&theme=dark&show_icons=true)
 
 # About me
 
