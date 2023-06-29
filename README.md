@@ -1,5 +1,5 @@
 <p> 
-    <img src="https://github.com/Zetharionn/zetharionn/blob/main/assets/header.jpg", height=150>
+    <img src="https://github.com/Zetharionn/zetharionn/blob/main/assets/header.jpg", height=500>
 </p>
 
 # About Me
