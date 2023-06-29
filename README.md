@@ -1,4 +1,11 @@
-### Hi there 👋
+# Header
+`github_dark` ![github_dark][github_dark] | `github_dark_dimmed` ![github_dark_dimmed][github_dark_dimmed]
+
+# About me
+
+# Languages & Tools
+
+# Follow Me
 
 <!--
 **Zetharionn/zetharionn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
