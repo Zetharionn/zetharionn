@@ -1,7 +1,7 @@
 [<img src="https://github.com/Zetharionn/zetharionn/blob/main/assets/header.jpg">]()
 
 # About Me
-🔥 I'm Zetharion and I programming in C++. 
+🔥 I'm Zetharion and I Web Programmer. 
 
 
 # Language & Tools
