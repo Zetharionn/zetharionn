@@ -1,6 +1,3 @@
-## ⭐ Favorite
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zetharionn&repo=zetharion-website&theme=radical&show_icons=true)
-
 ## 🔥 About Me
 🌌 I'm Zetharion   
 💻 Front-End Web Developer
