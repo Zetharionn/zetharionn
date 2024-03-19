@@ -1,6 +1,6 @@
 ## 🔥 About Me
 🌌 I'm Zetharion   
-💻 Front end Developer   
+💻 Front-end Developer   
 🎓 Langs: Russian (Native), English (A2)   
 ## 🔨 Language & Tools
 ![Static Badge](https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=white)
