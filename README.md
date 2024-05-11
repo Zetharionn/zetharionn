@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/vite-violet?style=for-the-badge&logo=vite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=white)
+![Static Badge](https://img.shields.io/badge/insomnia-purple?style=for-the-badge&logo=insomnia&logoColor=white)
 ### 📈 Github Stats
 [![Zetharion's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetharionn)](https://github.com/anuraghazra/github-readme-stats)
 ![Zetharion's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetharionn&size_weight=0.5&count_weight=0.5)
