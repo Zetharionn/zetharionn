@@ -2,19 +2,10 @@
 🌌 Front-end Developer   
 🎓 Langs: Russian (Native), English (A2)   
 📣 Links: [Telegram](https://t.me/Zetharion)   
-### 🔨 Language   
-![Static Badge](https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=white)
-![Static Badge](https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/redux-7248b6?style=for-the-badge&logo=redux&logoColor=white)
-![Static Badge](https://img.shields.io/badge/sass-b83e7c?style=for-the-badge&logo=sass&logoColor=white)
-![Static Badge](https://img.shields.io/badge/tailwind_css-36b7f0?style=for-the-badge&logo=tailwindcss&logoColor=white)   
+### 🔨 Tech Stack   
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&theme=catppuccin_mocha&width=600&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=react%2Creact%2C5ed3f3%3Btypescript%2Ctypescript%2C2f74c0%3Bredux%2Credux%2C7248b6%3Bvite%2Cvite%2Cb143fe%3Bwebpack%2Cwebpack%2C5299c8%3B)
 ### 💻 Tools   
-![Static Badge](https://img.shields.io/badge/webstorm-blue?style=for-the-badge&logo=webstorm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/git-red?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/vite-violet?style=for-the-badge&logo=vite&logoColor=white)
-![Static Badge](https://img.shields.io/badge/npm-red?style=for-the-badge&logo=npm&logoColor=white)
-![Static Badge](https://img.shields.io/badge/insomnia-purple?style=for-the-badge&logo=insomnia&logoColor=white)
+![Tools](https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&lineCount=1&theme=catppuccin_mocha&width=600&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=webstorm%2Cwebstorm%2C03a9fb%3Binsomnia%2Cinsomnia%2C800080%3Bgit%2Cgit%2Ce05d44%3Bnpm%2Cnpm%2Ce05d44%3Bpnpm%2Cpnpm%2Cf9b720%3B)
 ### 📈 Github Stats
-[![Zetharion's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetharionn)](https://github.com/anuraghazra/github-readme-stats)
-![Zetharion's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetharionn&size_weight=0.5&count_weight=0.5)
-[![Zetharion's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@zetharionn)](https://github.com/anuraghazra/github-readme-stats)
+[![Zetharion's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetharionn&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+![Zetharion's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetharionn&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha)
