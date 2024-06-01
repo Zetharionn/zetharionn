@@ -7,5 +7,4 @@
 ### 💻 Tools   
 ![Tools](https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&lineCount=1&theme=catppuccin_mocha&width=600&bg=%231e1e2e&badge=%23181825&border=%236c7086&titleColor=%2394e2d5&line1=webstorm%2Cwebstorm%2C03a9fb%3Binsomnia%2Cinsomnia%2C800080%3Bgit%2Cgit%2Ce05d44%3Bnpm%2Cnpm%2Ce05d44%3Bpnpm%2Cpnpm%2Cf9b720%3B)
 ### 📈 Github Stats
-[![Zetharion's GitHub stats](https://github-readme-stats.vercel.app/api?username=zetharionn&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
-![Zetharion's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetharionn&size_weight=0.5&count_weight=0.5&theme=catppuccin_mocha)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zetharionn&theme=catppuccin-mocha&card_width=600)](https://git.io/streak-stats)
